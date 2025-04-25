@@ -28,8 +28,8 @@ Sub-Degree Rank : 2
 |8|[JSON My Soul](Web/JSON%20My%20Soul.md#json-my-soul)|Web|
 |9|[Hidden Secrets](Forensics/Hidden%20Secrets.md#hidden-secrets)|Forensics|
 |10|[Deadliest Catch I](Forensics/Deadliest%20Catch%20I.md#deadliest-catch-i)|Forensics|
-|11|[Deadliest Catch II](Forensics/Deadliest%20Catch%20I.md#deadliest-catch-ii)|Forensics|
-|12|[Deadliest Catch III](Forensics/Deadliest%20Catch%20I.md#deadliest-catch-iii)|Forensics|
+|11|[Deadliest Catch II](Forensics/Deadliest%20Catch%20II.md#deadliest-catch-ii)|Forensics|
+|12|[Deadliest Catch III](Forensics/Deadliest%20Catch%20III.md#deadliest-catch-iii)|Forensics|
 |13|[Get the Flag](Forensics/Get%20the%20Flag.md#get-the-flag)|Forensics|
 |14|[K1K1_Soldiers](Artificial%20Intelligence/K1K1_Soldiers.md#k1k1_soldiers)|Artificial Intelligence|
 |15|[NuttyBot](Artificial%20Intelligence/NuttyBot.md#nuttybot)|Artificial Intelligence|
