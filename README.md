@@ -4,7 +4,7 @@
 
 ## Background
 
-From : 16 April 2025, 20:00 HKT
+From : 19 April 2025, 20:00 HKT
 
 To :  21 April 2025, 20:30 HKT
 
