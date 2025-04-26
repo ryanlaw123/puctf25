@@ -8,7 +8,7 @@ Flag Format: PUCTF25{[a-zA-Z0-9_]+}
 
 ---
 
-There are two methods discussed in this write-up: [Method 1](Reverse%20Engineering/Normal%20Application%20I.md#method-1-) : and [Method 2](Reverse%20Engineering/Normal%20Application%20I.md#method-2-) :. Method 1 was our solution during the competition, while Method 2 is based on the hints provided by the author after the competition.
+There are two methods discussed in this write-up: [Method 1](https://github.com/ryanlaw123/puctf25/blob/main/Reverse%20Engineering/Normal%20Application%20I.md#method-1-) : and [Method 2](https://github.com/ryanlaw123/puctf25/blob/main/Reverse%20Engineering/Normal%20Application%20I.md#method-2-) :. Method 1 was our solution during the competition, while Method 2 is based on the hints provided by the author after the competition.
 
 ### 1 **AAB to APK Conversion and Installation Process** :
 
