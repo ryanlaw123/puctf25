@@ -14,6 +14,8 @@ Team : T003\_Chill Player
 
 Sub-Degree Rank : 2
 
+[Official Scoreboard](https://2025.polyuctf.com/scoreboard/)
+
 ## Write-up index
 
 |Question|Title|Categories|
